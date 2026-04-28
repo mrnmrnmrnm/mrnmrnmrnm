@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Active Directory Setup and Configuration </b>
-  - [Active Directory Home Lab](https://github.com/mrnmrnmrnm/Active-Directory-Lab-/)
+  - [Active Directory Home Lab](https://github.com/mrnmrnmrnm/Active-Directory-Lab/)
  
 - <b>Ticketing System </b>
   - [Ticketing System Home Lab](https://github.com/mrnmrnmrnm/Active-Directory-Lab-/)
