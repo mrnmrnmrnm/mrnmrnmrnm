@@ -8,8 +8,8 @@
 - <b>Ticketing System </b>
   - [Ticketing System Home Lab](https://github.com/mrnmrnmrnm/Active-Directory-Lab-/)
  
-- <b>Personal PC Builds </b>
-  - [Setup and Specifications](https://github.com/mrnmrnmrnm/Active-Directory-Lab-/)
+- <b>Personal PC Build </b>
+  - [Setup and Specifications](https://github.com/mrnmrnmrnm/PC-Builds)
 
 <h2>💻📖 Certifications:</h2>
 
