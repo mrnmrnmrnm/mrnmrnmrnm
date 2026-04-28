@@ -1,9 +1,15 @@
 <h1>Hi, I'm Brenden! <br/><a href="https://www.linkedin.com/in/brenden-griffin-35573625b/">IT Support Professional</a></h1>
 
-<h2>👨‍💻 IT Support Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Active Directory Setup and Configuration </b>
   - [Active Directory Home Lab](https://github.com/mrnmrnmrnm/Active-Directory-Lab-/)
+ 
+- <b>Ticketing System </b>
+  - [Ticketing System Home Lab](https://github.com/mrnmrnmrnm/Active-Directory-Lab-/)
+ 
+- <b>Personal PC Builds </b>
+  - [Setup and Specifications](https://github.com/mrnmrnmrnm/Active-Directory-Lab-/)
 
 <h2>💻📖 Certifications:</h2>
 
